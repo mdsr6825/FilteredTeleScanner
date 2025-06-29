@@ -55,12 +55,13 @@ docker run -it -p 5555:5000 libretranslate/libretranslate
 ### 5️⃣ Configure the bot
 
 Open main.py and configure the following:
-
+```bash
 api_id = '--'            # Telegram API ID from my.telegram.org
 api_hash = '--'          # Telegram API Hash
 phone_number = '--'      # Phone number with country code (e.g., +1234567890)
 target_channel = '--'    # Target channel where results are posted
 chat_ids = ['--']        # List of monitored chat/channel IDs
+```
 
 You can also customize:
 
