@@ -80,25 +80,6 @@ python main.py
 ```
 
 
-📝 Sample Output
-
-"
-🌐 New Translated Message
-
-Original Channel: such and such
-Sender: so and so
-Detected Location(s): Detected place 1, Detected place 2 
-Detected Time: 2025-06-29 06:45
-
-Detected Language: uk (confidence: 0.98)
-
-Original Message:
-В Одесі стався вибух близько 6:45 ранку.
-
-Translated to English:
-An explosion occurred in Odesa around 6:45 AM.
-"
-
 📓 Important notes
 * 1. This bot, used correctly, is not a plug and play solution, it will not work without accurate input of localized prepositions in main.py
     
