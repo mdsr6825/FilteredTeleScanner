@@ -100,9 +100,9 @@ An explosion occurred in Odesa around 6:45 AM.
 "
 
 📓 Important notes
-    1. This bot, used correctly, is not a plug and play solution, it will not work without accurate input of localized prepositions in main.py
+* 1. This bot, used correctly, is not a plug and play solution, it will not work without accurate input of localized prepositions in main.py
     
-    2. This bot is not infallible, it will make mistakes regarding location and time so always double check its output with the translated message
+* 2. This bot is not infallible, it will make mistakes regarding location and time so always double check its output with the translated message
 
 
 ✅ The bot will:
@@ -118,10 +118,10 @@ An explosion occurred in Odesa around 6:45 AM.
 
 ## ⚡ Full Features
 
-✅ Listen to any number of Telegram channels
-✅ Automatically detect the source language and its confidence
-✅ Translate to English (LibreTranslate)
-✅ Filter for any keywords or topics
-✅ Detect location and time of incident
-✅ Forward everything to a target Telegram channel
-✅ Fully self-hosted translation (no external API costs!)
+*✅ Listen to any number of Telegram channels
+*✅ Automatically detect the source language and its confidence
+*✅ Translate to English (LibreTranslate)
+*✅ Filter for any keywords or topics
+*✅ Detect location and time of incident
+*✅ Forward everything to a target Telegram channel
+*✅ Fully self-hosted translation (no external API costs!)
