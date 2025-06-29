@@ -118,10 +118,10 @@ An explosion occurred in Odesa around 6:45 AM.
 
 ## ⚡ Full Features
 
-*✅ Listen to any number of Telegram channels
-*✅ Automatically detect the source language and its confidence
-*✅ Translate to English (LibreTranslate)
-*✅ Filter for any keywords or topics
-*✅ Detect location and time of incident
-*✅ Forward everything to a target Telegram channel
-*✅ Fully self-hosted translation (no external API costs!)
+* Listen to any number of Telegram channels
+* Automatically detect the source language and its confidence
+* Translate to English (LibreTranslate)
+* Filter for any keywords or topics
+* Detect location and time of incident
+* Forward everything to a target Telegram channel
+* Fully self-hosted translation (no external API costs!)
